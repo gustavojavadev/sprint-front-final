@@ -1,5 +1,5 @@
 
-# Atualizações Sprint Front-end page
+# Atualizações Sprint - Front-end
 
 ## Funcionalidades e itens adicionados:
 
